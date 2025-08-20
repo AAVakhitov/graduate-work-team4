@@ -18,7 +18,7 @@ docker run -p 3000:3000 --rm ghcr.io/dmitry-bizin/front-react-avito:v1.21
 
 
 Над проектом работали:
-* [Владислав Гуленков](https://github.com/jonathan-sm)
+* [Владислав Кунцевич](https://github.com/KuntsevichV)
 * [Фатима Аксагова](https://github.com/Pavel-Fomchenkov)
 * [Артур Вахитов](https://github.com/serper35)
 * [Сальман Терещенко](https://github.com/VGAliyev)
